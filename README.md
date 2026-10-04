@@ -121,3 +121,4 @@ Services:
  - Implement HTTPS
  - Expand monitoring
  - Document infrastructure changes
+# homelab
